@@ -1,0 +1,23 @@
+.item-add {
+  display: flex;
+  margin: 10px;
+  width: 626px;
+  justify-content: space-between;
+}
+
+.item-add div {
+  margin: 5px;
+}
+
+.item-add div input {
+  margin: 0 20px;
+  width: 375px;
+  padding: 5px;
+  font-size: 2.5vh;
+}
+
+.item-add button {
+  width: 25%;
+  font-size: 20px;
+  cursor: pointer;
+}
